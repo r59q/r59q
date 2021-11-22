@@ -16,9 +16,9 @@
 
 
 ### How to reach me 📫
-📧 <andreashenriksen@yahoo.dk>
+ ![email-logo]⠀<AndreasHenriksen@yahoo.dk>
 
-[![discord-logo]][discord-logo] Malthe#2557
+![discord-logo] Malthe#2557
 
 <!--
 - 👋 Hi, I’m @r59q
@@ -32,6 +32,7 @@ r59q/r59q is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-[discord-logo]: https://github.com/r59q/r59q/blob/main/discord-logo-19.png
+[discord-logo]: https://github.com/r59q/r59q/blob/main/discord-26x19.png
+[email-logo]: https://github.com/r59q/r59q/blob/main/email-22x18.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/a-malthe-henriksen-2830ba217/
