@@ -3,7 +3,7 @@
   <h3>Hi ! 👋</h3>
   <h4>Welcome to my Github</h4>
   <p>My name is A. Malthe Henriksen.</br>
-  I am a Computer Scientist student at Aarhus University, Denmark 🎓 </p>
+  I am a Computer Science student at Aarhus University, Denmark 🎓 </p>
   
   <h2></h2>
   <div>
