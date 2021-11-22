@@ -14,6 +14,9 @@
 
 <hline>
 
+### Skills
+
+
 
 ### How to reach me
  ![email-logo]⠀<AndreasHenriksen@yahoo.dk>
