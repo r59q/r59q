@@ -15,7 +15,7 @@
 <hline>
 
 
-### How to reach me 📫
+### How to reach me
  ![email-logo]⠀<AndreasHenriksen@yahoo.dk>
 
 ![discord-logo] Malthe#2557
