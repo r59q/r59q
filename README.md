@@ -14,8 +14,9 @@
 
 <hline>
 
-### Skills
-
+### Currently working on
+At the moment I'm deep into test-driven development. As a part of this endeavour I have created a project, [ShipSimGame](https://github.com/r59q/ShipSimGame), which is a game developed using test-driven development.
+I am particularly interested in the explorative part of development, and the challenges they pose in TDD.
 
 
 ### How to reach me
