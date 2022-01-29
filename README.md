@@ -20,7 +20,7 @@ I am particularly interested in the explorative part of development, and the cha
 
 
 ### How to reach me
- ![email-logo]⠀<AndreasHenriksen@yahoo.dk>
+ 📫⠀<AndreasHenriksen@yahoo.dk>
 
 ![discord-logo] Malthe#2557
 
