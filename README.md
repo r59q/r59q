@@ -4,7 +4,7 @@
   <h4>Welcome to my Github</h4>
   <p>My name is A. Malthe Henriksen.</br>
   I am a Computer Science student at Aarhus University, Denmark 🎓 </p>
-  
+  <p>Works at Aarhus University as a student developer on project CEED, and as student developer at Rambøll Management</p>
   <h2></h2>
   <div>
   
@@ -15,8 +15,8 @@
 <hline>
 
 ### Currently working on
-At the moment I'm deep into test-driven development. As a part of this endeavour I have created a project, [ShipSimGame](https://github.com/r59q/ShipSimGame), which is a game developed using test-driven development.
-I am particularly interested in the explorative part of development, and the challenges they pose in TDD.
+At the moment I'm working on a app, learning React-Native.
+I have also begun development on a strategy game in Unity.
 
 
 ### How to reach me
