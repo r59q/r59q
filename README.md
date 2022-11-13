@@ -15,8 +15,8 @@
 <hline>
 
 ### Currently working on
-At the moment I'm working on a app, learning React-Native.
-I have also begun development on a strategy game in Unity.
+At the moment I'm working on a app, learning React-Native, a web application concerning citizen engagement and a reasearch project regarding machine-learning and micro:bit software, which is soon to be open-sourced. Looking forward!
+
 
 
 ### How to reach me
