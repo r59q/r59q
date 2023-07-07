@@ -3,7 +3,7 @@
   <h3>Hi ! 👋</h3>
   <h4>Welcome to my Github</h4>
   <p>My name is A. Malthe Henriksen.</br>
-  I have a computer science degree and work as a software engineer </p>
+  I have a computer science degree and work as a software engineer 🎓 </p>
   <p>Works at Aarhus University as a front-end developer on project CEED, and as a software engineer at Rambøll Management</p>
   <h2></h2>
   <div>
