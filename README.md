@@ -17,7 +17,7 @@
 
 
 ### How to reach me
- 📫⠀<AndreasHenriksen@yahoo.dk>
+ 📫⠀<andreashenriksen@yahoo.dk>
 
 ![discord-logo] Malthe#2557
   
