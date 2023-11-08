@@ -39,4 +39,3 @@ You can click the Preview link to take a look at your changes.
 [email-logo]: https://github.com/r59q/r59q/blob/main/email-22x18.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/a-malthe-henriksen-2830ba217/
-[ml-url]:
