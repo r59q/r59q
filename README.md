@@ -4,7 +4,7 @@
   <h4>Welcome to my Github</h4>
   <p>My name is A. Malthe Henriksen.</br>
   I have a computer science degree and work as a software engineer </p>
-  <p>Works at Aarhus University as the core maintainer of <a href="https://github.com/microbit-foundation/cctd-ml-machine">ml-machine</a> , and as a software engineer at Rambøll Management</p>
+  <p>Works at Aarhus University as the core maintainer of <a href="https://github.com/microbit-foundation/cctd-ml-machine">ml-machine</a> , and as a software engineer at Terma</p>
   <h2></h2>
   <div>
   
